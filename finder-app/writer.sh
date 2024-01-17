@@ -2,7 +2,7 @@
 
 if [[ $# != 2 ]]
 then
-	echo -e "Please provide two arguments, e.g.: ./writer.sh /path/to/writefile text-to-be-writen, where\n\r\tFirst argument is the path to file\n\r\tSecond argument is a text to be saved to this file"
+	echo -e "Please provide two arguments, e.g.: ./writer.sh /path/to/writefile text-to-be-writen, where\n\r\tFirst argument is the path to file\n\r\tSecond argument is a text to be saved to this file."
 	exit 1
 fi
 
